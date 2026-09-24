@@ -1,0 +1,15 @@
+html, body { height: 100%; margin: 0; font-family: system-ui, sans-serif; }
+#map { height: 100%; }
+.props { border-collapse: collapse; font-size: 13px; }
+.props th, .props td { border: 1px solid #ddd; padding: 3px 6px; text-align: left; }
+.props th { font-weight: 600; }
+.props tr:nth-child(odd) { background: #f7f7f7; }
+.props tr:nth-child(even) { background: #e8eef7; }
+/* Browsers draw the focus ring around the path's bounding box, not its outline */
+path.leaflet-interactive:focus { outline: none; }
+.legend, .nav { background: #fff; padding: 8px 10px; border-radius: 4px; box-shadow: 0 1px 4px rgba(0,0,0,.3); font-size: 13px; line-height: 20px; }
+.legend i { display: inline-block; width: 14px; height: 14px; margin-right: 6px; vertical-align: -2px; border: 1px solid rgba(0,0,0,.4); }
+.nav a { color: #1f5fa8; text-decoration: none; }
+.nav a:hover { text-decoration: underline; }
+.nav .current { font-weight: 600; }
+.leaflet-popup-content { max-height: 300px; overflow-y: auto; }

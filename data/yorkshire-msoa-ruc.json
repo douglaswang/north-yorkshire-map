@@ -1,0 +1,507 @@
+{
+ "E02002772": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02002773": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002774": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002775": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002776": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002777": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002778": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002779": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002780": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002781": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002782": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002783": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002784": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002785": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002786": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002787": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002788": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002789": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002790": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002791": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02002792": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002793": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002794": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02002795": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005781": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005782": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005783": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005784": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005785": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005786": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005787": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005788": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005789": {
+  "RUC21CD": "RLF1",
+  "RUC21NM": "Larger rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005790": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005791": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005794": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005795": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005796": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005797": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005798": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005742": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005744": {
+  "RUC21CD": "RLF1",
+  "RUC21NM": "Larger rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005746": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005747": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005748": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005749": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005750": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005751": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005752": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005754": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005755": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005756": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005757": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005758": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005759": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005760": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005761": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005762": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005763": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005764": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005765": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005766": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005767": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005768": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005769": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005770": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005771": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005772": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005773": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005774": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005775": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005776": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005777": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005778": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005779": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005780": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005799": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005800": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005801": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005802": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005803": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005804": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005805": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005806": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005807": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005808": {
+  "RUC21CD": "RLF1",
+  "RUC21NM": "Larger rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005809": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005810": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005811": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005812": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005813": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005814": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005815": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02005816": {
+  "RUC21CD": "RLF1",
+  "RUC21NM": "Larger rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005817": {
+  "RUC21CD": "RLN1",
+  "RUC21NM": "Larger rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02005818": {
+  "RUC21CD": "RSN1",
+  "RUC21NM": "Smaller rural: Nearer to a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02007041": {
+  "RUC21CD": "RSF1",
+  "RUC21NM": "Smaller rural: Further from a major town or city",
+  "Urban_rural_flag": "Rural"
+ },
+ "E02007042": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02007043": {
+  "RUC21CD": "UN1",
+  "RUC21NM": "Urban: Nearer to a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02007044": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ },
+ "E02007045": {
+  "RUC21CD": "UF1",
+  "RUC21NM": "Urban: Further from a major town or city",
+  "Urban_rural_flag": "Urban"
+ }
+}
