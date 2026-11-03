@@ -13,3 +13,7 @@ path.leaflet-interactive:focus { outline: none; }
 .nav a:hover { text-decoration: underline; }
 .nav .current { font-weight: 600; }
 .leaflet-popup-content { max-height: 300px; overflow-y: auto; }
+.pop-title { margin: 10px 0 4px; font-size: 13px; }
+.pop td { text-align: right; }
+.pop .up { color: #15803d; }
+.pop .down { color: #b91c1c; }

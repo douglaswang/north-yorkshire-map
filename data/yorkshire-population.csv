@@ -1,0 +1,113 @@
+year,group,urban_rural,lsoa_count,population
+2011,A1 Corridor,Rural,69,118974
+2011,A1 Corridor,Urban,38,54175
+2011,Harrogate & The Dales,Rural,79,120684
+2011,Harrogate & The Dales,Urban,93,146745
+2011,"The Vale, Moors & Coast",Rural,44,74111
+2011,"The Vale, Moors & Coast",Urban,56,86517
+2011,York,Rural,17,25306
+2011,York,Urban,104,172477
+2012,A1 Corridor,Rural,69,119333
+2012,A1 Corridor,Urban,38,54600
+2012,Harrogate & The Dales,Rural,79,121041
+2012,Harrogate & The Dales,Urban,93,148100
+2012,"The Vale, Moors & Coast",Rural,44,74175
+2012,"The Vale, Moors & Coast",Urban,56,86714
+2012,York,Rural,17,25368
+2012,York,Urban,104,173789
+2013,A1 Corridor,Rural,69,119504
+2013,A1 Corridor,Urban,38,55023
+2013,Harrogate & The Dales,Rural,79,120827
+2013,Harrogate & The Dales,Urban,93,147921
+2013,"The Vale, Moors & Coast",Rural,44,74327
+2013,"The Vale, Moors & Coast",Urban,56,86549
+2013,York,Rural,17,25659
+2013,York,Urban,104,175509
+2014,A1 Corridor,Rural,69,119932
+2014,A1 Corridor,Urban,38,55158
+2014,Harrogate & The Dales,Rural,79,120708
+2014,Harrogate & The Dales,Urban,93,146541
+2014,"The Vale, Moors & Coast",Rural,44,74554
+2014,"The Vale, Moors & Coast",Urban,56,86779
+2014,York,Rural,17,25645
+2014,York,Urban,104,176561
+2015,A1 Corridor,Rural,69,119957
+2015,A1 Corridor,Urban,38,55544
+2015,Harrogate & The Dales,Rural,79,120694
+2015,Harrogate & The Dales,Urban,93,146023
+2015,"The Vale, Moors & Coast",Rural,44,74524
+2015,"The Vale, Moors & Coast",Urban,56,86969
+2015,York,Rural,17,25837
+2015,York,Urban,104,177375
+2016,A1 Corridor,Rural,69,120299
+2016,A1 Corridor,Urban,38,55860
+2016,Harrogate & The Dales,Rural,79,120753
+2016,Harrogate & The Dales,Urban,93,147079
+2016,"The Vale, Moors & Coast",Rural,44,74480
+2016,"The Vale, Moors & Coast",Urban,56,87299
+2016,York,Rural,17,26042
+2016,York,Urban,104,176850
+2017,A1 Corridor,Rural,69,120424
+2017,A1 Corridor,Urban,38,56448
+2017,Harrogate & The Dales,Rural,79,120932
+2017,Harrogate & The Dales,Urban,93,147126
+2017,"The Vale, Moors & Coast",Rural,44,74539
+2017,"The Vale, Moors & Coast",Urban,56,87822
+2017,York,Rural,17,25994
+2017,York,Urban,104,177552
+2018,A1 Corridor,Rural,69,120807
+2018,A1 Corridor,Urban,38,56859
+2018,Harrogate & The Dales,Rural,79,120799
+2018,Harrogate & The Dales,Urban,93,146531
+2018,"The Vale, Moors & Coast",Rural,44,74375
+2018,"The Vale, Moors & Coast",Urban,56,88364
+2018,York,Rural,17,26038
+2018,York,Urban,104,177868
+2019,A1 Corridor,Rural,69,121654
+2019,A1 Corridor,Urban,38,57645
+2019,Harrogate & The Dales,Rural,79,121310
+2019,Harrogate & The Dales,Urban,93,146874
+2019,"The Vale, Moors & Coast",Rural,44,74414
+2019,"The Vale, Moors & Coast",Urban,56,88763
+2019,York,Rural,17,26082
+2019,York,Urban,104,177795
+2020,A1 Corridor,Rural,69,122160
+2020,A1 Corridor,Urban,38,58137
+2020,Harrogate & The Dales,Rural,79,121342
+2020,Harrogate & The Dales,Urban,93,146561
+2020,"The Vale, Moors & Coast",Rural,44,74216
+2020,"The Vale, Moors & Coast",Urban,56,88483
+2020,York,Rural,17,25953
+2020,York,Urban,104,176216
+2021,A1 Corridor,Rural,69,124056
+2021,A1 Corridor,Urban,38,59335
+2021,Harrogate & The Dales,Rural,79,123591
+2021,Harrogate & The Dales,Urban,93,147840
+2021,"The Vale, Moors & Coast",Rural,44,74606
+2021,"The Vale, Moors & Coast",Urban,56,89199
+2021,York,Rural,17,26004
+2021,York,Urban,104,175847
+2022,A1 Corridor,Rural,69,125398
+2022,A1 Corridor,Urban,38,60082
+2022,Harrogate & The Dales,Rural,79,124573
+2022,Harrogate & The Dales,Urban,93,148835
+2022,"The Vale, Moors & Coast",Rural,44,74880
+2022,"The Vale, Moors & Coast",Urban,56,90287
+2022,York,Rural,17,26157
+2022,York,Urban,104,178591
+2023,A1 Corridor,Rural,69,126790
+2023,A1 Corridor,Urban,38,61191
+2023,Harrogate & The Dales,Rural,79,125584
+2023,Harrogate & The Dales,Urban,93,149574
+2023,"The Vale, Moors & Coast",Rural,44,75199
+2023,"The Vale, Moors & Coast",Urban,56,90508
+2023,York,Rural,17,25970
+2023,York,Urban,104,180776
+2024,A1 Corridor,Rural,69,128331
+2024,A1 Corridor,Urban,38,62016
+2024,Harrogate & The Dales,Rural,79,126512
+2024,Harrogate & The Dales,Urban,93,151823
+2024,"The Vale, Moors & Coast",Rural,44,75554
+2024,"The Vale, Moors & Coast",Urban,56,91034
+2024,York,Rural,17,25953
+2024,York,Urban,104,183348

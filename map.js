@@ -4,6 +4,7 @@
  *   ruc      - rural/urban JSON URL, keyed by codeField
  *   codeField, nameField - property names for the area code and label
  *   page     - current page id, used to mark the nav link
+ *   population - optional JSON URL, keyed by codeField, of {year: population}
  */
 (function () {
   const cfg = window.MAP_CONFIG;
@@ -45,6 +46,24 @@
     return `<table class="props">${rows}</table>`;
   }
 
+  function populationTable(byYear) {
+    if (!byYear) return '';
+    let prev = null;
+    const rows = Object.keys(byYear).sort().map(year => {
+      const pop = byYear[year];
+      let change = '';
+      if (prev !== null) {
+        const diff = pop - prev;
+        const cls = diff > 0 ? 'up' : diff < 0 ? 'down' : '';
+        change = `<span class="${cls}">${diff > 0 ? '+' : ''}${diff.toLocaleString()} (${diff > 0 ? '+' : ''}${(diff / prev * 100).toFixed(1)}%)</span>`;
+      }
+      prev = pop;
+      return `<tr><th>${escapeHtml(year)}</th><td>${pop.toLocaleString()}</td><td>${change}</td></tr>`;
+    }).join('');
+    return `<h4 class="pop-title">Mid-year population estimates</h4>` +
+      `<table class="props pop"><tr><th>Year</th><th>Population</th><th>Change</th></tr>${rows}</table>`;
+  }
+
   function addControl(position, className, html) {
     const ctl = L.control({ position });
     ctl.onAdd = () => {
@@ -66,13 +85,14 @@
       : `<a href="${p.href}">${p.label}</a>`)
     .join(' | '));
 
-  Promise.all([getJson(cfg.geojson), getJson(cfg.ruc)])
-    .then(([data, ruc]) => {
+  Promise.all([getJson(cfg.geojson), getJson(cfg.ruc), cfg.population ? getJson(cfg.population) : {}])
+    .then(([data, ruc, population]) => {
       data.features.forEach(f => Object.assign(f.properties, ruc[f.properties[cfg.codeField]]));
       const layer = L.geoJSON(data, {
         style: baseStyle,
         onEachFeature: (feature, lyr) => {
-          lyr.bindPopup(propsTable(feature.properties), { maxWidth: 400 });
+          const pop = population[feature.properties[cfg.codeField]];
+          lyr.bindPopup(propsTable(feature.properties) + populationTable(pop), { maxWidth: 400 });
           lyr.bindTooltip(feature.properties[cfg.nameField], { sticky: true });
           lyr.on({
             mouseover: e => { if (e.target !== selected) e.target.setStyle(hoverStyle(feature)); },
